@@ -1,0 +1,6 @@
+Hi, i'm trying to use your super Godot Plugin to use FireBase (great thanks and gg !) but i've got an error with the demo projects : "Assertion failed"
+This is happen at the line 92 (assert(event_idx != -1)) in the scripts : HTTPSSEClient.gd
+If you have any solution, please answer here :
+AkaRyu#1962 -> Discord
+akaryuafx@gmail.com -> Mail
+Thanks !
